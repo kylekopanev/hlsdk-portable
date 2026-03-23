@@ -68,7 +68,7 @@
       </a>
     </td>
     <td valign="middle">
-      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/QCLauncher.apk"><b>QCLauncher (Extremely broken ThreeWave CTF and Deathmatch Classic Launcher)</b></a>
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/QCLauncher.Test.apk"><b>QCLauncher (Extremely broken ThreeWave CTF and Deathmatch Classic Launcher)</b></a>
     </td>
   </tr>
 </table>
