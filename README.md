@@ -9,7 +9,7 @@
   <tr>
     <td width="130" align="center">
       <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/Delta.Particles.apk">
-        <img src="https://github.com/user-attachments/assets/197f5145-633b-4e22-abde-34d031a694c5" width="128" height="128" />
+        <img src="https://github.com/user-attachments/assets/037023c2-af6f-45c5-8fec-140808f2e6f7" width="128" height="128" />
       </a>
     </td>
     <td valign="middle">
@@ -35,7 +35,7 @@
       </a>
     </td>
     <td valign="middle">
-      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/Gravgun.apk"><b>Gravgun</b></a>
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/Gravgun.apk"><b>Gravgun (you need download data)</b></a>
     </td>
   </tr>
 
@@ -63,12 +63,12 @@
 
   <tr>
     <td width="130" align="center">
-      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/QCLauncher.apk">
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/QCLauncher.Test.apk">
         <img src="https://github.com/user-attachments/assets/ed291c08-04a1-4939-a0fc-8b58cb7d398b" width="128" height="128" />
       </a>
     </td>
     <td valign="middle">
-      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/QCLauncher.apk"><b>QCLauncher (ThreeWave CTF and Deathmatch Classic Launcher)</b></a>
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/QCLauncher.apk"><b>QCLauncher (Extremely broken ThreeWave CTF and Deathmatch Classic Launcher)</b></a>
     </td>
   </tr>
 </table>
