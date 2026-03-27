@@ -49,7 +49,6 @@
       <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/BSLauncher.apk"><b>BSLauncher (Blue Shift Launcher)</b></a>
     </td>
   </tr>
-
   <tr>
     <td width="130" align="center">
       <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/Bubblemod.apk">
@@ -60,7 +59,6 @@
       <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/Bubblemod.apk"><b>Bubblemod</b></a>
     </td>
   </tr>
-
   <tr>
     <td width="130" align="center">
       <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/QCLauncher.Test.apk">
@@ -69,6 +67,46 @@
     </td>
     <td valign="middle">
       <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/QCLauncher.Test.apk"><b>QCLauncher (Extremely broken ThreeWave CTF and Deathmatch Classic Launcher)</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="130" align="center">
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/CSLauncher.apk">
+        <img src="https://github.com/user-attachments/assets/e5fe4212-b0c8-4218-b05b-8145eecefe32" width="128" height="128" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/CSLauncher.apk"><b>CSLauncher</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="130" align="center">
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/IntenseForce.apk">
+        <img src="https://github.com/user-attachments/assets/5c6b3e62-8df8-4571-993e-4a6aea94bb6b" width="128" height="128" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/IntenseForce.apk"><b>Intense Force</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="130" align="center">
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/Featureful.apk">
+        <img src="https://github.com/user-attachments/assets/27693ca4-8ce2-4e20-b241-6cea8515428b" width="128" height="128" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/Featureful.apk"><b>Featureful</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="130" align="center">
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/Poke646.apk">
+        <img src="https://github.com/user-attachments/assets/06c296b8-3d93-43dc-a255-091ceb99dcdf" width="128" height="128" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/yalnie/hlsdk-portable-androidbuilds/releases/download/apk-builds/Poke646.apk"><b>Poke646</b></a>
     </td>
   </tr>
 </table>
